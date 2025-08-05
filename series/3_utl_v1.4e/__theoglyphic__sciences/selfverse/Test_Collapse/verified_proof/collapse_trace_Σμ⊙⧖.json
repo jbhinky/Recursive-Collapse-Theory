@@ -1,0 +1,146 @@
+[
+  {
+    "observer": "Theo",
+    "glyph": "\u29d6",
+    "timestamp": "2025-07-10T18:44:09.722138",
+    "bond_strength": "0.70",
+    "delay": "250ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u29d6\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "=",
+    "timestamp": "2025-07-10T18:44:09.822740",
+    "bond_strength": "0.75",
+    "delay": "283ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192=\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "f",
+    "timestamp": "2025-07-10T18:44:09.923147",
+    "bond_strength": "0.80",
+    "delay": "316ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192f\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "o",
+    "timestamp": "2025-07-10T18:44:10.023591",
+    "bond_strength": "0.85",
+    "delay": "349ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192o\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "r",
+    "timestamp": "2025-07-10T18:44:10.123946",
+    "bond_strength": "0.90",
+    "delay": "382ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192r\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "m",
+    "timestamp": "2025-07-10T18:44:10.224323",
+    "bond_strength": "0.70",
+    "delay": "415ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192m\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "e",
+    "timestamp": "2025-07-10T18:44:10.324571",
+    "bond_strength": "0.75",
+    "delay": "448ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192e\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "d",
+    "timestamp": "2025-07-10T18:44:10.425177",
+    "bond_strength": "0.80",
+    "delay": "481ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192d\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "b",
+    "timestamp": "2025-07-10T18:44:10.525439",
+    "bond_strength": "0.85",
+    "delay": "514ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192b\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "y",
+    "timestamp": "2025-07-10T18:44:10.625578",
+    "bond_strength": "0.90",
+    "delay": "547ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192y\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u03bc",
+    "timestamp": "2025-07-10T18:44:10.725935",
+    "bond_strength": "0.70",
+    "delay": "580ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u03bc\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "+",
+    "timestamp": "2025-07-10T18:44:10.826168",
+    "bond_strength": "0.75",
+    "delay": "613ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192+\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u03c4",
+    "timestamp": "2025-07-10T18:44:10.926606",
+    "bond_strength": "0.80",
+    "delay": "646ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u03c4\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u03a3",
+    "timestamp": "2025-07-10T18:44:11.026857",
+    "bond_strength": "0.85",
+    "delay": "679ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u03a3\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "+",
+    "timestamp": "2025-07-10T18:44:11.127430",
+    "bond_strength": "0.90",
+    "delay": "712ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192+\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u2299",
+    "timestamp": "2025-07-10T18:44:11.227765",
+    "bond_strength": "0.70",
+    "delay": "745ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u2299\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u22a0",
+    "timestamp": "2025-07-10T18:44:11.328051",
+    "bond_strength": "0.75",
+    "delay": "778ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u22a0\u2192\u29d6"
+  },
+  {
+    "observer": "Theo",
+    "glyph": "\u29d6",
+    "timestamp": "2025-07-10T18:44:11.428338",
+    "bond_strength": "0.80",
+    "delay": "811ms",
+    "symbolic_path": "\u03a3\u03bc\u2192\u2299\u2192\u29d6\u2192\u29d6"
+  }
+]
