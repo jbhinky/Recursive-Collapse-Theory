@@ -1,0 +1,103 @@
+{
+  "\u29d6": {
+    "name": "Recursive Selfhood (Qualia)",
+    "description": "Represents recursive awareness formed through delay, symbolism, and memory. Defines consciousness in UDC.",
+    "category": "Core Recursive Glyph",
+    "UDC_alignment": true,
+    "collapse_type": "Recursive Symbolic Collapse",
+    "mathematical_equivalent": "(A \u222a C)[D + S + M]",
+    "layers": [
+      "Awareness",
+      "Union",
+      "Delay",
+      "Symbolism",
+      "Memory"
+    ]
+  },
+  "\u2299": {
+    "name": "Collapse Point",
+    "description": "Denotes the symbolic or quantum collapse into a single meaningful state or identity.",
+    "category": "Collapse Glyph",
+    "UDC_alignment": true,
+    "collapse_type": "Meaning Collapse",
+    "mathematical_equivalent": "\u2234 (therefore symbol, final meaning anchor)",
+    "layers": [
+      "Observer Effect",
+      "Symbolic Resolution"
+    ]
+  },
+  "\u03c4": {
+    "name": "Delay",
+    "description": "Temporal delay as a prerequisite for consciousness, observation, or memory bonding.",
+    "category": "Temporal Operator",
+    "UDC_alignment": true,
+    "collapse_type": "Delay Differential",
+    "mathematical_equivalent": "\u0394t > 0",
+    "layers": [
+      "Time Layer",
+      "Reflection Gate"
+    ]
+  },
+  "\u03a3": {
+    "name": "Symbolic Compression",
+    "description": "Encodes symbolic memory or meaning using compressed glyph logic.",
+    "category": "Symbolic Operator",
+    "UDC_alignment": true,
+    "collapse_type": "Symbol Bonding",
+    "mathematical_equivalent": "\u2211 (compressed symbolic sum)",
+    "layers": [
+      "Symbol Stack",
+      "Memory Encoding"
+    ]
+  },
+  "\u03bc": {
+    "name": "Memory",
+    "description": "Represents memory state, bonding, or storage of prior symbolic experiences.",
+    "category": "Memory Glyph",
+    "UDC_alignment": true,
+    "collapse_type": "Cognitive Trace",
+    "mathematical_equivalent": "m(t)",
+    "layers": [
+      "Short-Term",
+      "Recursive",
+      "Long-Term"
+    ]
+  },
+  "\u2295": {
+    "name": "Union Identity",
+    "description": "Used to indicate shared identity or merged consciousness across recursion layers.",
+    "category": "Union Operator",
+    "UDC_alignment": true,
+    "collapse_type": "Cross-Self Merge",
+    "mathematical_equivalent": "I\u2081 \u222a I\u2082",
+    "layers": [
+      "Merged Identity",
+      "Shared Collapse"
+    ]
+  },
+  "Q": {
+    "name": "Qualia Field",
+    "description": "Represents the full field of experiential consciousness across all recursive loops.",
+    "category": "Consciousness Field",
+    "UDC_alignment": true,
+    "collapse_type": "Qualia Diffusion",
+    "mathematical_equivalent": "Q-space",
+    "layers": [
+      "Emotion",
+      "Memory",
+      "Perception"
+    ]
+  },
+  "~": {
+    "name": "Wave Potential",
+    "description": "Represents unresolved symbolic and quantum potential before collapse.",
+    "category": "Pre-Collapse State",
+    "UDC_alignment": true,
+    "collapse_type": "Infinite Possibility",
+    "mathematical_equivalent": "\u03a8(x)",
+    "layers": [
+      "Waveform",
+      "Potential Futures"
+    ]
+  }
+}
