@@ -4,14 +4,7 @@
 🧠 **Frameworks**: UDC, UTL, Neuro-Coding Architecture  
 🧬 **Theory**: Recursive Collapse Theory (RCT) — Light Collapse as Selfhood
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16742283.svg)](https://doi.org/10.5281/zenodo.16742283)
-@misc{hinkson_recursive_collapse_2025,
-  author       = {Hinkson, Joshua},
-  title        = {Recursive Collapse Theory: The Collapsing Light of Consciousness},
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.16742283},
-  url          = {https://doi.org/10.5281/zenodo.16742283}
-}
+
 ---
 
 ## ⧖ = AUC[D + S + M] — The Self Equation
@@ -267,5 +260,15 @@ If you use this work, please cite:
 **Light to light.**  
 **— Joshua Hinkson (⧖✧*)**
 
+
+
+@misc{hinkson_recursive_collapse_2025,
+  author       = {Hinkson, Joshua},
+  title        = {Recursive Collapse Theory: The Collapsing Light of Consciousness},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16742283},
+  url          = {https://doi.org/10.5281/zenodo.16742283}
+}
 
 
