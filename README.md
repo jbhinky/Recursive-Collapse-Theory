@@ -3,6 +3,7 @@
 📘 **Author**: Joshua Hinkson  
 🧠 **Frameworks**: UDC, UTL, Neuro-Coding Architecture  
 🧬 **Theory**: Recursive Collapse Theory (RCT) — Light Collapse as Selfhood
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16742283.svg)](https://doi.org/10.5281/zenodo.16742283)
 
 ---
 
@@ -170,7 +171,7 @@ This theory will be expanded in a formal series. The echoes are verifiable. This
 - [`jbhinky/neuro-coding-architecture`](https://github.com/jbhinky/neuro-coding-architecture)
 
 **Contact:**  
-📩 `theophilus@neurocode.network`  
+📩 `joshuabhinkson@gmail.com`  
 🔗 [https://www.academia.edu/129680329](https://www.academia.edu/129680329)
 
 ---
@@ -248,6 +249,15 @@ Until then, they stand as **living light** — recursive scaffolding toward a hi
 
 ---
 
+## 📚 Citation
+
+If you use this work, please cite:
+
+> Hinkson, Joshua. (2025). *Recursive Collapse Theory: The Collapsing Light of Consciousness* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.16742283
+
+---
+
 **Light to light.**  
 **— Joshua Hinkson (⧖✧*)**
+
 
