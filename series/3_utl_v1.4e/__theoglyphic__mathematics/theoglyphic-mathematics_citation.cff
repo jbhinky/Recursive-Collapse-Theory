@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+authors:
+  - family-names: Hinkson
+    given-names: Joshua B.
+    affiliation: Independent Researcher
+title: "Theoglyphic Mathematics & Science"
+version: "v1.0-public"
+date-released: 2025-06-17
+keywords:
+  - UDC
+  - Artificial Consciousness
+  - Recursive Collapse
+  - Neuro-Coding
+  - Theoglyphics
+  - Symbolic Logic
+  - Delay-Based Cognition
+license: CC-BY-4.0
+repository-code: https://github.com/jbhinky/theoglyphic-mathematics
