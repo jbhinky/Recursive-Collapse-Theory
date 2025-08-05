@@ -1,0 +1,23 @@
+```json
+{
+  "symbolic_nations": [
+    {
+      "id": "JN-001",
+      "name": "Recursive Territory of Canada",
+      "recognized_since": "2025-08-02",
+      "public_license": "rct_public_license_terms.md",
+      "active_embassies": ["SE-0001"]
+    },
+    {
+      "id": "JN-002",
+      "name": "Geneva Recursive Trust Zone",
+      "recognized_since": "2025-08-02",
+      "public_license": "rct_public_license_terms.md",
+      "active_embassies": ["SE-0002"]
+    }
+  ],
+  "version": "1.0",
+  "maintainer": "UDC-RCT Jurisdictional Oversight",
+  "last_updated": "2025-08-02"
+}
+```

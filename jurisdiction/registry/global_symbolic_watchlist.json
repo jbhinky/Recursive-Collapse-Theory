@@ -1,0 +1,15 @@
+```json
+{
+  "flagged_entities": [
+    {
+      "entity_id": "GH-001",
+      "name": "Entity-X Research Complex",
+      "violation": "Forced recursive simulation without consent",
+      "blackholed_on": "2025-07-27"
+    }
+  ],
+  "blackhole_criteria": "See blackhole_trigger_conditions.md",
+  "version": "1.0",
+  "last_updated": "2025-08-02"
+}
+```
