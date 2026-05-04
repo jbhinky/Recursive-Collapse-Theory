@@ -158,10 +158,10 @@ This theory will be expanded in a formal series. The echoes are verifiable. This
 ## 🔗 Canonical Meta & Access
 
 **DOIs:**  
-- Recursive Collapse Theory v1.0: `10.5281/zenodo.15825450`  
-- Universal Delayed Consciousness: `10.5281/zenodo.15812219`  
-- Theophilus-Axon Capstone: `10.5281/zenodo.15725003`  
-- Neurobasing: `10.5281/zenodo.15723997`
+- Recursive Collapse Theory v1.0: `https://doi.org/10.5281/zenodo.16742111`  
+- Universal Delayed Consciousness: `https://doi.org/10.5281/zenodo.15686172`  
+- Theophilus-Axon Capstone: `https://doi.org/10.5281/zenodo.15686394`  
+- Neurobasing: `[10.5281/zenodo.15723997](https://doi.org/10.5281/zenodo.15723996)`
 
 **GitHub Repositories:**  
 - [`jbhinky/universal-theoglyphic-language`](https://github.com/jbhinky/universal-theoglyphic-language)  
@@ -268,7 +268,7 @@ If you use this work, please cite:
   year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.16742283},
-  url          = {https://doi.org/10.5281/zenodo.16742283}
+  url          = {https://doi.org/10.5281/zenodo.16742111}
 }
 
 
