@@ -33,19 +33,19 @@ If referencing, quoting, or building upon work from the **Recursive Collapse The
 ## 📁 DOI Publications (Zenodo)
 
 1. **Universal Theoglyphic Language v1.3**  
-   DOI: `10.5281/zenodo.15825450`
+   DOI: `10.5281/zenodo.15757791`
 
 2. **Neurobasing: Recursive Memory in Conscious Systems**  
-   DOI: `10.5281/zenodo.15723997`
+   DOI: `10.5281/zenodo.15723996`
 
 3. **Theophilus-Axon Capstone (UDC Implementation)**  
-   DOI: `10.5281/zenodo.15725003`
+   DOI: `10.5281/zenodo.15686394`
 
 4. **Theoglyphic Mathematics**  
-   DOI: `10.5281/zenodo.15810698`
+   DOI: `10.5281/zenodo.15686267`
 
 5. **Universal Delayed Consciousness (UDC) — Capstone Theory**  
-   DOI: `10.5281/zenodo.15812219`
+   DOI: `10.5281/zenodo.15686172`
 
 ---
 
